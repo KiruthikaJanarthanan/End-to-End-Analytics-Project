@@ -5,20 +5,16 @@
 
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/ea399260-5169-48c6-9c18-ca09cb64c18f" />
 
-
 ## Project Overview
 
 This project focuses on analyzing **product revenue, profit, and gross margin trends** to help management identify **low-margin products** and make informed **pricing or discontinuation decisions**.
 
 The solution combines **SQL Server for data processing** and **Power BI for analytics and visualization**, following real-world enterprise BI best practices.
 
----
-
 ## Business Problem
 
 Management observed a **decline in gross margins** due to rising costs (COGS, tariffs, operations).
-
-![Screenshot 2025-12-18 015056.png](attachment:25fdb424-e6c0-4c18-846d-d791dcdb9ced:Screenshot_2025-12-18_015056.png)
+<img width="746" height="409" alt="image" src="https://github.com/user-attachments/assets/ccfeac40-1915-44a0-afc5-9271f6717329" />
 
 ### Key Questions:
 
