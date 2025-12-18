@@ -31,7 +31,7 @@ Management observed a **decline in gross margins** due to rising costs (COGS, ta
 - What-if Parameter KPI Selector
   
 - **SQL QUERY**
-- 
+ 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6b9a6045-40e6-4c16-b2e1-5d20c8fcfe02" />
 
 - Reduced duplication
@@ -82,6 +82,8 @@ Lineage View after the REPORT is published to Power BI Service under Workspace
 <img width="1505" height="234" alt="image" src="https://github.com/user-attachments/assets/b9fe8dc3-0b42-4b12-a696-9e32e2278387" />
 
 ## Key Insights
+<img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/ee7517a2-0074-4bba-a81a-eee8936bf072" />
+
 - Based on the Gross Margin Percentage analysis ,Identified **low-margin products (<30%)**
 - **Discontinue or Price-Hike:** Review and either discontinue or significantly raise the price(by 25% or more) on the following low-margin accessories and merchandise:
     **—Chemex Filters( 100 Pack)(Lowest Total MARGIN AT 12.00%)**
