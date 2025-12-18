@@ -29,11 +29,13 @@ Management observed a **decline in gross margins** due to rising costs (COGS, ta
 - Power BI Desktop (Modeling, DAX, Visualization),Power BI Service
 - Data Modeling (Star Schema)
 - What-if Parameter KPI Selector
+- 
 - **SQL QUERY**
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6b9a6045-40e6-4c16-b2e1-5d20c8fcfe02" />
 - Reduced duplication
 - Centralized logic
 - Optimized for Power BI Import mode
+- 
 ## Demonstrated Work
 - **SQL Optimization**
     - Loaded yearly order data (2023–2025) into SQL Server
@@ -57,6 +59,7 @@ Management observed a **decline in gross margins** due to rising costs (COGS, ta
 a Quick **ETL Validation** for the KPI Cards
 
 **Sql Query**
+
 **SELECT
 SUM(Calculated_Revenue) AS Total_Revenue,
 SUM(COGS) AS Total_COGS,
