@@ -3,8 +3,6 @@
 
 ### (SQL Server +Power BI Desktop + Power BI Service)
 
-![ETL FLOW.png](attachment:206419ad-5eb5-45ed-bc5b-e0dec148d97e:ETL_FLOW.png)
-[view](<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/3522808a-85ed-437e-ac0e-8d7521f17f97" />)
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/ea399260-5169-48c6-9c18-ca09cb64c18f" />
 
 
