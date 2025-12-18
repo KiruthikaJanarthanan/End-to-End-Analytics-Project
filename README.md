@@ -29,13 +29,16 @@ Management observed a **decline in gross margins** due to rising costs (COGS, ta
 - Power BI Desktop (Modeling, DAX, Visualization),Power BI Service
 - Data Modeling (Star Schema)
 - What-if Parameter KPI Selector
-- 
+  
 - **SQL QUERY**
+- 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6b9a6045-40e6-4c16-b2e1-5d20c8fcfe02" />
+
 - Reduced duplication
 - Centralized logic
 - Optimized for Power BI Import mode
-- 
+
+  
 ## Demonstrated Work
 - **SQL Optimization**
     - Loaded yearly order data (2023–2025) into SQL Server
@@ -86,7 +89,8 @@ Lineage View after the REPORT is published to Power BI Service under Workspace
     **—Logo Hoodie (Black)(12.%)**
 - **Required Price Adjustment**:**Increase the price of the Gooseneck Electric Kettle** to restore its Gross Margin Percentage above 30% threshold.
 - These actions are necessary because the rising COGS has made these products unprofitable or structurally weak contributors to overall profit.
-- 
+
+  
 ## Business Impact
 - Reduced reporting development time
 - Improved pricing decision-making
